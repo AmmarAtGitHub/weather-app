@@ -1,7 +1,7 @@
 # weather-app
 
 ## Project Description
-This is a simple weather application that uses the OpenWeatherMap API. Users can enter a city name to get current weather information including temperature, description, and additional details.
+This is a simple weather application that uses the OpenWeatherMap API. Users can enter a city name to get current weather information including temperature, description, and additional details. The application is built using vanilla JavaScript, HTML, and CSS, ensuring a lightweight and efficient user experience.
 
 ## Features
 - Real-time weather data
