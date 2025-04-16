@@ -24,8 +24,9 @@ cd weather-app
 
 3. **Add Your API Key to the Project**
    * Open the JavaScript file
-   * Replace `YOUR_API_KEY` with your actual API key
+   * Replace your api key with your actual API key
    * For example: `const apikey = "abc123def456ghi789";`
+   * This project includes a publicly exposed API key for educational purposes only. In production or private projects, you should never expose API keys. Always use environment variables or server-side methods.
 
 4. **Open the Application**
    * Open the HTML file in your browser to use the app
